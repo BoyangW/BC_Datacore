@@ -1,2 +1,2 @@
-# BC_Datacore
+# Behavior Consistency Datacore
 Behavior Consistency Datacore code repository
