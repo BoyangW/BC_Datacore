@@ -12,5 +12,5 @@ Raw data in BC Box folder is required to run code in following repositories
 ### Code
 This folder contains executable python code for extracting preliminary outcomes (MVPA, SED, FV and FAT) in daily level granularity
 
-### Jupyter Notebooks
-This folder contains step-by-step pipeline of extracting preliminary outcomes (MVPA, SED, FV and FAT) and visualizations for the raw dataset
+### Notebooks
+This folder contains step-by-step Jupyter Notebooks for extracting preliminary outcomes (MVPA, SED, FV and FAT) and visualizations for the raw dataset
