@@ -7,10 +7,7 @@
 6. s2_counts: shimmer accelerometer count number, each row is one minute for each participant which could be sum up to get total minutes detected by shimmer
 7. sed_upload: daily sedentary minutes upload for each participant  
 
-Raw data in BC Box folder is required to run code in following repositories
-
-### Code
-This folder contains executable python code for extracting preliminary outcomes (MVPA, SED, FV and FAT) in daily level granularity
+Raw data in BC Box folder is required to run code in Notebook repository.
 
 ### Notebooks
-This folder contains step-by-step Jupyter Notebooks for extracting preliminary outcomes (MVPA, SED, FV and FAT) and visualizations for the raw dataset
+This folder contains step-by-step Jupyter Notebooks for extracting preliminary outcomes (MVPA, SED, FV and FAT) and visualizations for the raw dataset.
