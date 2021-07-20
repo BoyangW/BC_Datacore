@@ -13,7 +13,8 @@ Add additional tag variable for outliers annotation.
 Used to output MVPA, Sedentary Minutes and Shimmer Minutes.
 
 #### Timeline_Alignment.ipynb
-Align cleaned tables based on user ID and time of upload, fill missing values with 999999.
+Align cleaned tables based on user ID and time of upload, fill missing values with 999999.  
+Remove invalid records whose goal fall into invalid study periods (i.g. control group). 
 
 #### EDA.ipynb
 Generate tables/figures of descriptive analysis results from cleaned MBC2 data, including outliers, Statistical results and distributions for all 4 preliminary outcomes.
